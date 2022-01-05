@@ -1,0 +1,9 @@
+/home/t-enshengshi/workspace/tnpa-generalizability/JavaMethodTransformer/src/main/java/BooleanExchange.java
+/home/t-enshengshi/workspace/tnpa-generalizability/JavaMethodTransformer/src/main/java/PermuteStatement.java
+/home/t-enshengshi/workspace/tnpa-generalizability/JavaMethodTransformer/src/main/java/ASTExplorer.java
+/home/t-enshengshi/workspace/tnpa-generalizability/JavaMethodTransformer/src/main/java/Main.java
+/home/t-enshengshi/workspace/tnpa-generalizability/JavaMethodTransformer/src/main/java/Common.java
+/home/t-enshengshi/workspace/tnpa-generalizability/JavaMethodTransformer/src/main/java/VariableRenaming.java
+/home/t-enshengshi/workspace/tnpa-generalizability/JavaMethodTransformer/src/main/java/LoopExchange.java
+/home/t-enshengshi/workspace/tnpa-generalizability/JavaMethodTransformer/src/main/java/UnusedStatement.java
+/home/t-enshengshi/workspace/tnpa-generalizability/JavaMethodTransformer/src/main/java/SwitchToIf.java
